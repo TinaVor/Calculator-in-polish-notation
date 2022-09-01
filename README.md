@@ -1,5 +1,5 @@
 # Calculator-in-polish-notation
-Created with streetms
+>Created with streetms
 
 
 Для вычисления значений выражений используется алгоритм Дейкстры для перевода выражения в польскую нотацию. Сборкf программы осуществляется при помощи Makefile.
